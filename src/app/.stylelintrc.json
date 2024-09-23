@@ -1,0 +1,12 @@
+{
+    "extends": [
+      "stylelint-config-standard-scss",
+      "stylelint-config-idiomatic-order",
+      "stylelint-config-prettier"
+    ],
+
+    "rules": {
+      "scss/comment-no-empty": null,
+      "order/properties-alphabetical-order": null
+    }
+}
